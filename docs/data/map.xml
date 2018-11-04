@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>大明地理之図</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+              <p />
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="https://iiif.dl.itc.u-tokyo.ac.jp/omekac/oa/collections/24/manifest.json"><surface><graphic n="https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1" url="https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/full/full/0/default.jpg/full/full/0/default.jpg" /><zone lrx="6825" lry="10602" ulx="6612" uly="10208" xml:id="zone_4746f63708765e0c4d9a9030aea999c2" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><p facs="#zone_4746f63708765e0c4d9a9030aea999c2">四川道[五嶽]</p></p></body>
+    </text>
+</TEI>
