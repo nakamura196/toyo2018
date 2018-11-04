@@ -1,0 +1,55 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json" ,
+  "@type" : "sc:Manifest" ,
+  "@id" : "https://nakamura196.github.io/toyo2018/map/manifests/map_ibaraki.json" ,
+  "label" : "経天合地大清広輿図，二京十四省四夷境域　／　ケイテン　ゴウチ　ダイシン　コウヨズ，ニキョウ　ジュウヨンシュウ　ヨンイ　キョウイキ" ,
+  "within" : "http://www.lib.pref.ibaraki.jp/guide/shiryou/digital_lib/digital_lib_main.html",
+  "related" : "https://www.lib.pref.ibaraki.jp/guide/shiryou/digital_lib/valuable_m/001051194973/22_02_keiten.html",
+  "attribution" : "茨城県立図書館 / IBARAKI PREFECTURAL LIBRARY",
+  "license" : "http://www.bunka.go.jp/jiyuriyo/",
+  "metadata": [
+    {"label":"著者名","value":"原作者不明, 長久保　玄珠　校正　／　ナガクボ，ハルタカ"},
+    {"label":"出版事項","value":"〔製作地不明〕　:　〔製作者不明〕　,　〔１７８５〕"},
+    {"label":"形態","value":"１軸　;　２０２ｃｍ"},
+    {"label":"注記","value":"軸装，多色刷"},
+    {"label":"資料番号/請求記号","value":"001051194973　／　ＷＭ-０９２-４７４"},
+    {"label":"大きさ（縦×横）cm","value":"172×200"},
+    {"label":"文庫名","value":"鮎澤"}
+  ],
+  "sequences" : [
+      {
+        "@id" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ibaraki.tif/sequence.json" ,
+        "@type" : "sc:Sequence" ,
+        "label" : "Current Page Order" ,
+        "canvases" : [
+            {
+              "@id" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ibaraki.tif/p1" ,
+              "@type" : "sc:Canvas" ,
+              "label" : "1" ,
+              "width" : 11520 ,
+              "height" : 9225 ,
+              "images" : [
+                  {
+                    "@id" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ibaraki.tif/ano1" ,
+                    "@type" : "oa:Annotation" ,
+                    "motivation" : "sc:painting" ,
+                    "on" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ibaraki.tif/p1" ,
+                    "resource" : {
+                        "@id" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ibaraki.tif/full/full/0/default.jpg" ,
+                        "@type" : "dctypes:Image" ,
+                        "format" : "image/jpeg" ,
+                        "width" : 11520 ,
+                        "height" : 9225 ,
+                        "service" : {
+                            "@context" : "http://iiif.io/api/image/2/context.json" ,
+                            "@id" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ibaraki.tif" ,
+                            "profile" : "http://iiif.io/api/image/2/level1.json"
+                          }
+                      }
+                  }
+                ]
+            }
+          ]
+      }
+    ]
+}
