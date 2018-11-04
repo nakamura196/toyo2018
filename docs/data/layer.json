@@ -1,0 +1,74 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@type": "sc:Manifest",
+	"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/oa/collections/24/manifest.json",
+	"label": "大明地理之図",
+	"attribution": "東洋文庫 / TOYO BUNKO",
+	"license": "https://creativecommons.org/licenses/by/4.0/",
+	"metadata": [
+	],
+	"sequences": [
+		{
+			"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/oa/collections/24/sequence.json",
+			"@type": "sc:Sequence",
+			"label": "Current Page Order",
+			"canvases": [
+				{
+					"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/p1",
+					"@type": "sc:Canvas",
+					"label": "1",
+					"width": 29008,
+					"height": 23339,
+					"images": [
+						{
+							"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/ano1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/p1",
+							"resource": {
+								"item": [
+									{
+										"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/full/full/0/default.jpg",
+										"@type": "dctypes:Image",
+										"format": "image/jpeg",
+										"width": 29008,
+										"height": 23339,
+										"service": {
+											"@context": "http://iiif.io/api/image/2/context.json",
+											"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif",
+											"profile": "http://iiif.io/api/image/2/level1.json"
+										},
+                    "label" : "東洋文庫"
+									}
+								],
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ndl.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								},
+								"height": 2040,
+								"@type": "oa:Choice",
+								"default": {
+									"service": {
+										"@context": "http://iiif.io/api/image/2/context.json",
+										"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ndl.tif",
+										"profile": "http://iiif.io/api/image/2/level1.json"
+									},
+									"height": 2040,
+									"@type": "dctypes:Image",
+									"format": "image/jpeg",
+									"width": 2880,
+									"label": "国立国会図書館",
+									"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ndl.tif/full/full/0/default.jpg"
+								},
+								"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ndl.tif/full/full/0/default.jpg",
+								"width": 2880,
+								"format": "image/jpeg"
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}
