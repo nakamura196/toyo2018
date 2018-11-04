@@ -25,11 +25,11 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <surfaceGrp facs="https://iiif.dl.itc.u-tokyo.ac.jp/omekac/oa/collections/24/manifest.json"><surface><graphic n="https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1" url="https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/full/full/0/default.jpg/full/full/0/default.jpg" /><zone lrx="6825" lry="10602" ulx="6612" uly="10208" xml:id="zone_4746f63708765e0c4d9a9030aea999c2" /></surface></surfaceGrp>
+        <surfaceGrp facs="https://iiif.dl.itc.u-tokyo.ac.jp/omekac/oa/collections/24/manifest.json"><surface><graphic n="https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1" url="https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/full/full/0/default.jpg/full/full/0/default.jpg" /><zone lrx="19200" lry="6186" ulx="18840" uly="5998" xml:id="zone_b38bc8261df63ad233d7c921d731d210" /><zone lrx="14144" lry="8341" ulx="13831" uly="8136" xml:id="zone_a94494d634139fce5a9ffad25558fbd1" /><zone lrx="10799" lry="16066" ulx="10486" uly="15908" xml:id="zone_b4ed8430a01088191a7494dbdce2b668" /><zone lrx="10392" lry="1504" ulx="9959" uly="1268" xml:id="zone_e581bd1b52c79d17b8198af96851bc98" /><zone lrx="6825" lry="10602" ulx="6612" uly="10208" xml:id="zone_4746f63708765e0c4d9a9030aea999c2" /><zone lrx="6483" lry="16966" ulx="6197" uly="16844" xml:id="zone_4fa1a61bfbc0923b9d4a99af0182c8f2" /><zone lrx="6225" lry="14548" ulx="5952" uly="14192" xml:id="zone_33e2ac2dfd8f88733a6f7b4d53af6117" /></surface></surfaceGrp>
     </facsimile>
     <text>
         <body>
 
-        <p><p facs="#zone_4746f63708765e0c4d9a9030aea999c2">四川道[五嶽]</p></p></body>
+        <p><p facs="#zone_b38bc8261df63ad233d7c921d731d210">岱山[五嶽]</p><p facs="#zone_a94494d634139fce5a9ffad25558fbd1">嵩山[五嶽]</p><p facs="#zone_b4ed8430a01088191a7494dbdce2b668">衡■山[五嶽]</p><p facs="#zone_e581bd1b52c79d17b8198af96851bc98">沙漠[五嶽]</p><p facs="#zone_4746f63708765e0c4d9a9030aea999c2">四川道[道額]</p><p facs="#zone_4fa1a61bfbc0923b9d4a99af0182c8f2">始安嶺[五嶽]</p><p facs="#zone_33e2ac2dfd8f88733a6f7b4d53af6117">貴州道[道額]</p></p></body>
     </text>
 </TEI>
