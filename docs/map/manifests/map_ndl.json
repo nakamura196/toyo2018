@@ -1,0 +1,56 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json" ,
+  "@type" : "sc:Manifest" ,
+  "@id" : "https://nakamura196.github.io/toyo2018/map/manifests/map_ndl.json" ,
+  "label" : "大清廣輿圖" ,
+  "description" : "書名は添付の別葉（刷）による。序題：經天合地　大清広輿図　二京十四省四夷境域。經天合地は経度と緯度の意。経緯線はないが、枠に目盛がある。書肆青黎閣崇文堂も別葉の表示で、地図上の日本橋新右衛門町前川六左衛門、東叡山池之端仲町須原屋伊八に対応する。別葉には清本復刻とあるが、水戸藩儒長久保玄珠（長久保赤水）が蔡九霞『広輿記』の図（程赤城の識によれば「大清一統志」の十有二幅の図）を拡大、諸書による増訂を加え、一枚図で一覧できるように編集したもの。ほかに久保亨（1730‐85）序もある。著者による凡例序文は天明癸卯歳（3年）、程および久保の識語は乾隆五十、および天明乙巳、（ともに天明5年　1785）。当代の図に古迹、古関などを併記する歴史地図。ほぼ省別の10枚組で刊行された同図（当館蔵、請求記号YR8-23）の印刷部分を境界沿いに切り抜き、貼り合わせて1図に仕立てている。10枚組図は各図の外枠、凡例等を全図共有になるよう配置し、1図仕立てとすることが想定されている。",
+  "within" : "http://dl.ndl.go.jp/",
+  "related" : "http://dl.ndl.go.jp/info:ndljp/pid/2543120",
+  "attribution" : "国立国会図書館 / National Diet Library",
+  "license" : "http://dl.ndl.go.jp/ja/intro.html",
+  "metadata": [
+    {"label":"著者","value":"(清) 平江九霞先生 原圖[他]"},
+    {"label":"出版者","value":"青黎閣崇文堂發兌"},
+    {"label":"出版年月日","value":"天明5 [1785] 序"},
+    {"label":"請求記号","value":"特7-656"},
+    {"label":"DOI","value":"10.11501/2543120"},
+    {"label":"容量・大きさ (extent)","value":"1張 ; 195×192cm (折りたたみ39×25cm)"},
+    {"label":"出版地 (publicationPlace)","value":"東都"}
+  ],
+  "sequences" : [
+      {
+        "@id" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ndl.tif/sequence.json" ,
+        "@type" : "sc:Sequence" ,
+        "label" : "Current Page Order" ,
+        "canvases" : [
+            {
+              "@id" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ndl.tif/p1" ,
+              "@type" : "sc:Canvas" ,
+              "label" : "1" ,
+              "width" : 16790 ,
+              "height" : 17428 ,
+              "images" : [
+                  {
+                    "@id" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ndl.tif/ano1" ,
+                    "@type" : "oa:Annotation" ,
+                    "motivation" : "sc:painting" ,
+                    "on" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ndl.tif/p1" ,
+                    "resource" : {
+                        "@id" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ndl.tif/full/full/0/default.jpg" ,
+                        "@type" : "dctypes:Image" ,
+                        "format" : "image/jpeg" ,
+                        "width" : 16790 ,
+                        "height" : 17428 ,
+                        "service" : {
+                            "@context" : "http://iiif.io/api/image/2/context.json" ,
+                            "@id" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_ndl.tif" ,
+                            "profile" : "http://iiif.io/api/image/2/level1.json"
+                          }
+                      }
+                  }
+                ]
+            }
+          ]
+      }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json" ,
+  "@type" : "sc:Manifest" ,
+  "@id" : "https://nakamura196.github.io/toyo2018/map/manifests/map_yokohama.json" ,
+  "label" : "大清廣輿圖" ,
+  "within" : "http://www-user.yokohama-cu.ac.jp/~ycu-rare/index.html",
+  "related" : "http://www-user.yokohama-cu.ac.jp/~ycu-rare/pages/WC-2_11.html",
+  "attribution" : "横浜市立図書館 / Library of Yokohama City University",
+  "license" : "http://www-user.yokohama-cu.ac.jp/~ycu-rare/terms_of_use.html",
+  "metadata": [
+    {"label":"書名","value":"大清廣輿圖"},
+    {"label":"編著者名1","value":"長久保 赤水 校正"},
+    {"label":"請求記号","value":"WC-2/11"},
+    {"label":"出版年（和）","value":"不明"},
+    {"label":"写刊","value":"写本、彩色"},
+    {"label":"大きさ（縦×横）cm","value":"172×200"},
+    {"label":"文庫名","value":"鮎澤"}
+  ],
+  "sequences" : [
+      {
+        "@id" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_yokohama.tif/sequence.json" ,
+        "@type" : "sc:Sequence" ,
+        "label" : "Current Page Order" ,
+        "canvases" : [
+            {
+              "@id" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_yokohama.tif/p1" ,
+              "@type" : "sc:Canvas" ,
+              "label" : "1" ,
+              "width" : 12133 ,
+              "height" : 10444 ,
+              "images" : [
+                  {
+                    "@id" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_yokohama.tif/ano1" ,
+                    "@type" : "oa:Annotation" ,
+                    "motivation" : "sc:painting" ,
+                    "on" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_yokohama.tif/p1" ,
+                    "resource" : {
+                        "@id" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_yokohama.tif/full/full/0/default.jpg" ,
+                        "@type" : "dctypes:Image" ,
+                        "format" : "image/jpeg" ,
+                        "width" : 12133 ,
+                        "height" : 10444 ,
+                        "service" : {
+                            "@context" : "http://iiif.io/api/image/2/context.json" ,
+                            "@id" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/map_yokohama.tif" ,
+                            "profile" : "http://iiif.io/api/image/2/level1.json"
+                          }
+                      }
+                  }
+                ]
+            }
+          ]
+      }
+    ]
+}
