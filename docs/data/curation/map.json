@@ -88,7 +88,7 @@
   ],
   "viewingDirection": "left-to-right",
   "service": {
-    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XQUC%EF%BC%8BToMC6T4%EF%BC%8Bt7IraYt3TV2GgAs013ZGsVP2uAAB0hVwxAlbxe4NTayJQVOUYyK1ertcqyjwnXn%EF%BC%8FAWftm56tg%3D%3D",
+    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XQUC＋ToMC6T4＋t7IraYt3TV2GgAs013ZGsVP2uAAB0g6JNDqUf／bkUsnRvLNsXmfjsqiYQ1R／UmQgl0＋jknzoA%3D%3D",
     "@context": "http://iiif.io/api/search/0/context.json",
     "profile": "http://iiif.io/api/search/0/search",
     "label": "Search within this manifest"
