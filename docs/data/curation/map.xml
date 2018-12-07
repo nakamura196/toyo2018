@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>大明地理之図</title>
+        <respStmt>
+          <persName>Satoru Nakamura</persName>
+          <resp>Text Encoding</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tokyo.</publisher>
+        <distributor>The University of Tokyo.</distributor>
+        <availability>
+          <p>
+            <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+              Attribution 4.0
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p />
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surfaceGrp facs="https://nakamura196.github.io/toyo2018/data/curation/map.json"><surface><graphic n="https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1" url="https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/full/full/0/default.jpg/full/full/0/default.jpg" /><zone lrx="23064" lry="5424" ulx="22790" uly="5111" xml:id="zone_95f9fbbed29a897abef0d3610b13866b" /><zone lrx="22124" lry="13774" ulx="21644" uly="13080" xml:id="zone_1c6783fdcffaeae4afebf70681a82e31" /><zone lrx="18647" lry="12360" ulx="18405" uly="12099" xml:id="zone_765635330aa5fba3385491872daa3b0d" /><zone lrx="17876" lry="3111" ulx="17638" uly="2730" xml:id="zone_783511c20ca8e9a1810ad0672ea7f7e9" /><zone lrx="17101" lry="12026" ulx="16848" uly="11738" xml:id="zone_d0ec33f67d255658e6b628c3d56a4dac" /><zone lrx="17056" lry="14756" ulx="16795" uly="14473" xml:id="zone_af388a229ad45fabf8d4956ab3fadca9" /><zone lrx="16967" lry="18110" ulx="16698" uly="17795" xml:id="zone_b614790f1863057f78fab0a3141c544b" /><zone lrx="16845" lry="17117" ulx="16608" uly="16777" xml:id="zone_a3177f10fb3a3dd98bcc7aa202ad2d4f" /><zone lrx="16817" lry="15958" ulx="16439" uly="15537" xml:id="zone_495a7ae9fa1beb58fa6e1d518a25e663" /><zone lrx="16521" lry="17684" ulx="16344" uly="17292" xml:id="zone_d968fe5101d34803948c67cac56af7af" /><zone lrx="16515" lry="20566" ulx="16211" uly="20096" xml:id="zone_eedbbe71470b13800d7bef410d3c8f2d" /><zone lrx="16268" lry="18738" ulx="16011" uly="18421" xml:id="zone_f533fb3c5d76f3d8175859f5803cc6f0" /><zone lrx="16282" lry="11436" ulx="15693" uly="11147" xml:id="zone_5eb8088680baf7c63ac37d69a2663378" /><zone lrx="15713" lry="19611" ulx="15372" uly="19088" xml:id="zone_577ef479ed26e445aad97da7b1f2640e" /><zone lrx="15244" lry="9556" ulx="14916" uly="8964" xml:id="zone_ea9ef9100ebc8eb9ef3fecf6c42bae72" /><zone lrx="14991" lry="3837" ulx="14785" uly="3448" xml:id="zone_0a37a880f391c7517a449f6aaf0268e6" /><zone lrx="13861" lry="8856" ulx="13509" uly="8422" xml:id="zone_57f14c59d3bd8fc37b96d4fc9d9c226d" /><zone lrx="13642" lry="18710" ulx="13238" uly="18300" xml:id="zone_8dc547c4eb11b5e995522ff7d45c8e3e" /><zone lrx="12717" lry="13580" ulx="12254" uly="13203" xml:id="zone_0f958ed6c45307700c6c36ed6524de1f" /><zone lrx="10237" lry="20692" ulx="9742" uly="20202" xml:id="zone_fa7a5c0f191203f497342493580acf7c" /><zone lrx="8966" lry="5085" ulx="8684" uly="4790" xml:id="zone_640a3e7d6ab816891f34dd383dca5169" /><zone lrx="8715" lry="15222" ulx="8519" uly="14834" xml:id="zone_e65aed7bb8536bf7a57aac6c1234f0b8" /><zone lrx="8242" lry="19730" ulx="8014" uly="19394" xml:id="zone_89b3f7e34edc8fbe33708d3adcad2805" /><zone lrx="8204" lry="19404" ulx="7732" uly="18892" xml:id="zone_38e5ca423be040a60265ad075cef5401" /></surface></surfaceGrp>
+  </facsimile>
+  <text>
+    <body>
+
+      <p><p facs="#zone_95f9fbbed29a897abef0d3610b13866b">【原文】秦始皇刻石紀功即此【説明】之罘山の説明：紀元前218年、秦の始皇帝がこの地で自らの功績を石に刻んだ。【キーワード】始皇七刻石</p><p facs="#zone_1c6783fdcffaeae4afebf70681a82e31">【原文】陸績陸機陸雲皆松江人【説明】松江府の説明：陸績・陸機・陸雲はみな松江府の出身である。</p><p facs="#zone_765635330aa5fba3385491872daa3b0d">【原文】李白着宮錦袍坐舟此【説明】采石山の説明：李白が宮錦袍を着てここで舟に乗った。</p><p facs="#zone_783511c20ca8e9a1810ad0672ea7f7e9">【原文】易水荊軻易水即此【説明】安州の説明：始皇帝への刺客として送られた荊軻が覚悟を詠んだ易水はここである。</p><p facs="#zone_d0ec33f67d255658e6b628c3d56a4dac">【原文】周瑜生此【説明】廬江の説明：周瑜はここで生まれた。</p><p facs="#zone_af388a229ad45fabf8d4956ab3fadca9">【原文】朱子本婺源人【説明】婺源の説明：朱子（朱熹）の家系はもともと婺源の出身。【Tag：朱熹関係】</p><p facs="#zone_b614790f1863057f78fab0a3141c544b">【原文】朱熹祠【説明】朱子（朱熹）を祀る祠【Tag：朱熹関係】</p><p facs="#zone_a3177f10fb3a3dd98bcc7aa202ad2d4f">【原文】['朱子初居此', '胡安国崇安人']【説明】崇安の説明：['朱子（朱熹）ははじめここに住んだ。', '胡安国は崇安の出身。']【Tag：朱熹関係】</p><p facs="#zone_495a7ae9fa1beb58fa6e1d518a25e663">【原文】唐陸羽居此後人祀為茶神【説明】懐玉山の説明：唐の陸羽がここに住んだ。後の人は茶神として陸羽を祀った。【Tag：朱熹関係】</p><p facs="#zone_d968fe5101d34803948c67cac56af7af">【原文】朱文公晦庵即此【説明】雲谷の説明：朱文公（朱熹）の晦庵はここにあった。【Tag：朱熹関係】</p><p facs="#zone_eedbbe71470b13800d7bef410d3c8f2d">【原文】朱文公同安主簿【説明】同安の説明：朱文公（朱熹）は同安の主簿であった。【Tag：朱熹関係】</p><p facs="#zone_f533fb3c5d76f3d8175859f5803cc6f0">【原文】朱松尤溪尉朱熹生此【説明】尤溪の説明：朱子（朱熹）がここで生まれた。【Tag：朱熹関係】</p><p facs="#zone_5eb8088680baf7c63ac37d69a2663378">【原文】一名天柱山漢唐祭於南岳神此【説明】霍山の説明：別名を天柱山という。漢代・唐代には南岳神をここで祀った。</p><p facs="#zone_577ef479ed26e445aad97da7b1f2640e">【原文】文公知漳州【説明】漳州府の説明：朱文公（朱熹）は漳州で任官した。【Tag：朱熹関係】</p><p facs="#zone_ea9ef9100ebc8eb9ef3fecf6c42bae72">【原文】漢末献帝都於此曹魏曰許昌【説明】許州の説明：西暦196年、後漢代末期の献帝はここに都を置いた。曹操の魏では許昌と呼んだ。【キーワード】献帝（漢）</p><p facs="#zone_0a37a880f391c7517a449f6aaf0268e6">【原文】韓信擧趙東下井徑即此【説明】井徑の説明：韓信が趙を井徑で下した。【キーワード】井徑の戦い</p><p facs="#zone_57f14c59d3bd8fc37b96d4fc9d9c226d">【原文】陽城禹辟舜子於陽城即此【説明】登封の説明：陽城。禹が舜の子を破った陽城がここである。</p><p facs="#zone_8dc547c4eb11b5e995522ff7d45c8e3e">【原文】章貢永相合故名【説明】['定南', '贛州府']の説明：章江と貢江が合わさるため、贛の名がついた。</p><p facs="#zone_0f958ed6c45307700c6c36ed6524de1f">【原文】周瑜敗曹操所【説明】赤壁の説明：208年、周瑜が曹操を破った場所。【キーワード】赤壁の戦い</p><p facs="#zone_fa7a5c0f191203f497342493580acf7c">【原文】['宋末帝昺駐蹕于此', '為元兵所追陸秀夫把帝赴海死山顛有石刻']【説明】崖山の説明：['南宋の末代皇帝の祥興帝（趙昺）がここに身を寄せた。', '1279年、元の兵に追われた陸秀夫が南宋の末代皇帝の祥興帝（趙昺）とともにここで海に身を投げた。山頂に石刻がある。']</p><p facs="#zone_640a3e7d6ab816891f34dd383dca5169">【原文】漢文帝時匈奴入此【説明】蕭関の説明：紀元前166年、漢の文帝の時代に匈奴がここから入った。［wiki：老上単于］【キーワード】老上単于</p><p facs="#zone_e65aed7bb8536bf7a57aac6c1234f0b8">【原文】馬援征五溪蛮即此【説明】麻陽の説明：48年、馬援が五渓蛮をここで破る。</p><p facs="#zone_89b3f7e34edc8fbe33708d3adcad2805">【原文】潘茂名於此採藥煉丹【説明】潘山の説明：潘茂名がここで薬を採取し丹を製造した。</p><p facs="#zone_38e5ca423be040a60265ad075cef5401">【原文】['高力士生此', '范祖禹貶此']【説明】高州府の説明：['高力士がここで生まれた。', '范祖禹がここに流された。']</p></p></body>
+    </text>
+  </TEI>
