@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/oa/collections/24/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "大明地理之図",
+  "license": "http://creativecommons.org/licenses/by/4.0/",
+  "attribution": "東洋文庫 / TOYO BUNKO",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "大明地理之図"
+    },
+    {
+      "label": "Identifier",
+      "value": "map_toyo"
+    },
+    {
+      "label": "attributionLabel",
+      "value": "東洋文庫 / TOYO BUNKO"
+    },
+    {
+      "label": "Source",
+      "value": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/manifest"
+    },
+    {
+      "label": "Relation",
+      "value": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XQUC%EF%BC%8BToMC6T4%EF%BC%8Bt7IraYt3TV2GgAs013ZGsVP2uAAB0hVwxAlbxe4NTayJQVOUYyK1ertcqyjwnXn%EF%BC%8FAWftm56tg%3D%3D"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/oa/collections/24/sequence.json",
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "viewingHint": "non-paged",
+      "canvases": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "thumbnail": {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/full/200,200/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "width": 29008,
+          "height": 23339,
+          "images": [
+            {
+              "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/annotation/p0001-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 29008,
+                "height": 23339,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "width": 29008,
+                  "height": 23339
+                }
+              },
+              "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1"
+            }
+          ],
+          "metadata": [
+            {
+              "label": "Source",
+              "value": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/manifest"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id" : "https://nakamura196.github.io/toyo2018/data/curation/anno.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "viewingDirection": "left-to-right",
+  "service": {
+    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XQUC%EF%BC%8BToMC6T4%EF%BC%8Bt7IraYt3TV2GgAs013ZGsVP2uAAB0hVwxAlbxe4NTayJQVOUYyK1ertcqyjwnXn%EF%BC%8FAWftm56tg%3D%3D",
+    "@context": "http://iiif.io/api/search/0/context.json",
+    "profile": "http://iiif.io/api/search/0/search",
+    "label": "Search within this manifest"
+  }
+}

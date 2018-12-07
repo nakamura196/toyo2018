@@ -1,0 +1,643 @@
+{
+  "@context": [
+    "http://iiif.io/api/presentation/2/context.json",
+    "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+  ],
+  "@type": "cr:Curation",
+  "@id": "http://mp.ex.nii.ac.jp/api/curation/json/dcb5c6aa-3163-4ce5-b6c4-65b1c8ab2884",
+  "label": "大明地理之図",
+  "selections": [
+    {
+      "@id": "http://mp.ex.nii.ac.jp/api/curation/json/dcb5c6aa-3163-4ce5-b6c4-65b1c8ab2884/range1",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=22790,5111,274,313",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "秦始皇刻石紀功即此"
+            },
+            {
+              "label": "説明",
+              "value": "紀元前218年、秦の始皇帝がこの地で自らの功績を石に刻んだ。"
+            },
+            {
+              "label": "キーワード",
+              "value": "始皇七刻石"
+            },
+            {
+              "label": "対象",
+              "value": "之罘山"
+            },
+            {
+              "label": "No.",
+              "value": "109"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=8014,19394,228,336",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "潘茂名於此採藥煉丹"
+            },
+            {
+              "label": "説明",
+              "value": "潘茂名がここで薬を採取し丹を製造した。"
+            },
+            {
+              "label": "対象",
+              "value": "潘山"
+            },
+            {
+              "label": "No.",
+              "value": "3557"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=7732,18892,472,512",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": [
+                "高力士生此",
+                "范祖禹貶此"
+              ]
+            },
+            {
+              "label": "説明",
+              "value": [
+                "高力士がここで生まれた。",
+                "范祖禹がここに流された。"
+              ]
+            },
+            {
+              "label": "対象",
+              "value": "高州府"
+            },
+            {
+              "label": "No.",
+              "value": "3440"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=8519,14834,196,388",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "馬援征五溪蛮即此"
+            },
+            {
+              "label": "説明",
+              "value": "48年、馬援が五渓蛮をここで破る。"
+            },
+            {
+              "label": "対象",
+              "value": "麻陽"
+            },
+            {
+              "label": "No.",
+              "value": "3101"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=8684,4790,282,295",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "漢文帝時匈奴入此"
+            },
+            {
+              "label": "説明",
+              "value": "紀元前166年、漢の文帝の時代に匈奴がここから入った。［wiki：老上単于］"
+            },
+            {
+              "label": "キーワード",
+              "value": "老上単于"
+            },
+            {
+              "label": "対象",
+              "value": "蕭関"
+            },
+            {
+              "label": "No.",
+              "value": "2371"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=14785,3448,206,389",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "韓信擧趙東下井徑即此"
+            },
+            {
+              "label": "説明",
+              "value": "韓信が趙を井徑で下した。"
+            },
+            {
+              "label": "キーワード",
+              "value": "井徑の戦い"
+            },
+            {
+              "label": "対象",
+              "value": "井徑"
+            },
+            {
+              "label": "No.",
+              "value": "531"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=17638,2730,238,381",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "易水荊軻易水即此"
+            },
+            {
+              "label": "説明",
+              "value": "始皇帝への刺客として送られた荊軻が覚悟を詠んだ易水はここである。"
+            },
+            {
+              "label": "対象",
+              "value": "安州"
+            },
+            {
+              "label": "No.",
+              "value": "446"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=21644,13080,480,694",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "陸績陸機陸雲皆松江人"
+            },
+            {
+              "label": "説明",
+              "value": "陸績・陸機・陸雲はみな松江府の出身である。"
+            },
+            {
+              "label": "対象",
+              "value": "松江府"
+            },
+            {
+              "label": "No.",
+              "value": "227"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=15693,11147,589,289",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "一名天柱山漢唐祭於南岳神此"
+            },
+            {
+              "label": "説明",
+              "value": "別名を天柱山という。漢代・唐代には南岳神をここで祀った。"
+            },
+            {
+              "label": "対象",
+              "value": "霍山"
+            },
+            {
+              "label": "No.",
+              "value": "1234"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=13509,8422,352,434",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "陽城禹辟舜子於陽城即此"
+            },
+            {
+              "label": "説明",
+              "value": "陽城。禹が舜の子を破った陽城がここである。"
+            },
+            {
+              "label": "対象",
+              "value": "登封"
+            },
+            {
+              "label": "No.",
+              "value": "2523"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=14916,8964,328,592",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "漢末献帝都於此曹魏曰許昌"
+            },
+            {
+              "label": "説明",
+              "value": "西暦196年、後漢代末期の献帝はここに都を置いた。曹操の魏では許昌と呼んだ。"
+            },
+            {
+              "label": "対象",
+              "value": "許州"
+            },
+            {
+              "label": "No.",
+              "value": "1079"
+            },
+            {
+              "label": "キーワード",
+              "value": "献帝（漢）"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=16848,11738,253,288",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "周瑜生此"
+            },
+            {
+              "label": "説明",
+              "value": "周瑜はここで生まれた。"
+            },
+            {
+              "label": "対象",
+              "value": "廬江"
+            },
+            {
+              "label": "No.",
+              "value": "1265"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=18405,12099,242,261",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "李白着宮錦袍坐舟此"
+            },
+            {
+              "label": "説明",
+              "value": "李白が宮錦袍を着てここで舟に乗った。"
+            },
+            {
+              "label": "対象",
+              "value": "采石山"
+            },
+            {
+              "label": "No.",
+              "value": "1277"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=12254,13203,463,377",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "周瑜敗曹操所"
+            },
+            {
+              "label": "説明",
+              "value": "208年、周瑜が曹操を破った場所。"
+            },
+            {
+              "label": "対象",
+              "value": "赤壁"
+            },
+            {
+              "label": "No.",
+              "value": "2993"
+            },
+            {
+              "label": "キーワード",
+              "value": "赤壁の戦い"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=9742,20202,495,490",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": [
+                "宋末帝昺駐蹕于此",
+                "為元兵所追陸秀夫把帝赴海死山顛有石刻"
+              ]
+            },
+            {
+              "label": "説明",
+              "value": [
+                "南宋の末代皇帝の祥興帝（趙昺）がここに身を寄せた。",
+                "1279年、元の兵に追われた陸秀夫が南宋の末代皇帝の祥興帝（趙昺）とともにここで海に身を投げた。山頂に石刻がある。"
+              ]
+            },
+            {
+              "label": "対象",
+              "value": "崖山"
+            },
+            {
+              "label": "No.",
+              "value": "3534"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=13238,18300,404,410",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "章貢永相合故名"
+            },
+            {
+              "label": "説明",
+              "value": "章江と貢江が合わさるため、贛の名がついた。"
+            },
+            {
+              "label": "対象",
+              "value": [
+                "定南",
+                "贛州府"
+              ]
+            },
+            {
+              "label": "No.",
+              "value": [
+                "3293",
+                "3287"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=15372,19088,341,523",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "文公知漳州"
+            },
+            {
+              "label": "朱熹関係",
+              "value": "*"
+            },
+            {
+              "label": "説明",
+              "value": "朱文公（朱熹）は漳州で任官した。"
+            },
+            {
+              "label": "対象",
+              "value": "漳州府"
+            },
+            {
+              "label": "No.",
+              "value": "1924"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=16211,20096,304,470",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "朱文公同安主簿"
+            },
+            {
+              "label": "朱熹関係",
+              "value": "*"
+            },
+            {
+              "label": "説明",
+              "value": "朱文公（朱熹）は同安の主簿であった。"
+            },
+            {
+              "label": "対象",
+              "value": "同安"
+            },
+            {
+              "label": "No.",
+              "value": "1982"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=16011,18421,257,317",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "朱松尤溪尉朱熹生此"
+            },
+            {
+              "label": "朱熹関係",
+              "value": "*"
+            },
+            {
+              "label": "説明",
+              "value": "朱子（朱熹）がここで生まれた。"
+            },
+            {
+              "label": "対象",
+              "value": "尤溪"
+            },
+            {
+              "label": "No.",
+              "value": "1900"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=16698,17795,269,315",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "朱熹祠"
+            },
+            {
+              "label": "朱熹関係",
+              "value": "*"
+            },
+            {
+              "label": "説明",
+              "value": "朱子（朱熹）を祀る祠"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=16344,17292,177,392",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "朱文公晦庵即此"
+            },
+            {
+              "label": "朱熹関係",
+              "value": "*"
+            },
+            {
+              "label": "説明",
+              "value": "朱文公（朱熹）の晦庵はここにあった。"
+            },
+            {
+              "label": "対象",
+              "value": "雲谷"
+            },
+            {
+              "label": "No.",
+              "value": "1849"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=16608,16777,237,340",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": [
+                "朱子初居此",
+                "胡安国崇安人"
+              ]
+            },
+            {
+              "label": "朱熹関係",
+              "value": "*"
+            },
+            {
+              "label": "説明",
+              "value": [
+                "朱子（朱熹）ははじめここに住んだ。",
+                "胡安国は崇安の出身。"
+              ]
+            },
+            {
+              "label": "対象",
+              "value": "崇安"
+            },
+            {
+              "label": "No.",
+              "value": "1673"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=16439,15537,378,421",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "唐陸羽居此後人祀為茶神"
+            },
+            {
+              "label": "朱熹関係",
+              "value": "*"
+            },
+            {
+              "label": "説明",
+              "value": "唐の陸羽がここに住んだ。後の人は茶神として陸羽を祀った。"
+            },
+            {
+              "label": "対象",
+              "value": "懐玉山"
+            },
+            {
+              "label": "No.",
+              "value": "1647"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=16795,14473,261,283",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "metadata": [
+            {
+              "label": "原文",
+              "value": "朱子本婺源人"
+            },
+            {
+              "label": "朱熹関係",
+              "value": "*"
+            },
+            {
+              "label": "説明",
+              "value": "朱子（朱熹）の家系はもともと婺源の出身。"
+            },
+            {
+              "label": "対象",
+              "value": "婺源"
+            },
+            {
+              "label": "No.",
+              "value": "1510"
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/oa/collections/24/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "大明地理之図"
+      }
+    }
+  ]
+}
