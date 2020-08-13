@@ -5,8 +5,7 @@
 	"label": "大明地理之図",
 	"attribution": "東洋文庫 / TOYO BUNKO",
 	"license": "https://creativecommons.org/licenses/by/4.0/",
-	"metadata": [
-	],
+	"metadata": [],
 	"sequences": [
 		{
 			"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/oa/collections/24/sequence.json",
@@ -38,7 +37,7 @@
 											"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif",
 											"profile": "http://iiif.io/api/image/2/level1.json"
 										},
-                    "label" : "東洋文庫"
+										"label": "東洋文庫"
 									}
 								],
 								"service": {

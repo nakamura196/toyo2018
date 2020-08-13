@@ -85,6 +85,7 @@
     // Ajaxリクエストが成功した時発動
     .done( (data) => {
       var result = data.results.bindings;
+      //console.log({result})
 
       var markers = L.markerClusterGroup();
 
@@ -104,6 +105,8 @@
 
         mlat += Number(obj.lat.value);
         mlong += Number(obj.long.value);
+
+        //console.log({mlat, mlong})
 
         var thumb = "";
         if(obj.thumb){
@@ -148,6 +151,8 @@
       }
 
       mymap.on('click', onMapClick);
+
+      //console.log({markers})
 
       mymap.panTo(new L.LatLng(mlat / result.length, mlong / result.length));
     })

@@ -4,11 +4,11 @@
     "http://codh.rois.ac.jp/iiif/curation/1/context.json"
   ],
   "@type": "cr:Curation",
-  "@id": "http://mp.ex.nii.ac.jp/api/curation/json/dcb5c6aa-3163-4ce5-b6c4-65b1c8ab2884",
+  "@id": "https://nakamura196.github.io/toyo2018/data/curation/curation.json",
   "label": "大明地理之図",
   "selections": [
     {
-      "@id": "http://mp.ex.nii.ac.jp/api/curation/json/dcb5c6aa-3163-4ce5-b6c4-65b1c8ab2884/range1",
+      "@id": "https://nakamura196.github.io/toyo2018/data/curation/curation.json/range1",
       "@type": "sc:Range",
       "label": "Manual curation by IIIF Curation Viewer",
       "members": [
@@ -634,7 +634,7 @@
         }
       ],
       "within": {
-        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/oa/collections/24/manifest.json",
+        "@id": "https://nakamura196.github.io/map/iiif/main/manifest.json",
         "@type": "sc:Manifest",
         "label": "大明地理之図"
       }
