@@ -88,7 +88,7 @@
   ],
   "viewingDirection": "left-to-right",
   "service": {
-    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/78dacb28292928b6d2d7cf4bcc4ecc2d2d4a34b434d34bcf2cc9284dd2cbccd72fc9afcc373230b4d04f492c49d4cf4d2cd0abc8cd0100d71e11ed",
+    "@id": "https://w3id.org/dhj/i3sa/https://raw.githubusercontent.com/nakamura196/toyo2018/master/docs/data/curation/map.xml",
     "@context": "http://iiif.io/api/search/0/context.json",
     "profile": "http://iiif.io/api/search/0/search",
     "label": "Search within this manifest"
